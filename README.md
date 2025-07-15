@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✨ Full Stack Realtime Chat App ✨
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
@@ -40,3 +41,6 @@ npm run build
 ```shell
 npm start
 ```
+=======
+# Real-time-chatApp
+>>>>>>> 62b61c9e0309f0d592599c796f84106f9e28efe1
