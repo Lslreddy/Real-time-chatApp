@@ -50,7 +50,7 @@ Edit
 1. **Navigate to backend directory**
 ```bash
 cd backend
-Install dependencies
+2. **Install dependencies**
 
 bash
 Copy
